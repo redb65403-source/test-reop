@@ -1,10 +1,27 @@
-h1{
-    color: blue;
-}
-body{
+/* Added new styles for index.html */
+
+/* Style for the body */
+body {
     background-color:beige;
+    border: 5px solid #ccc;
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 10px;
 }
-p{
-    font-size: 18px;
+
+/* Style for the header */
+h1 {
+    color: blue;
+    font-size: 2.5em;
+    margin-top: 20px;
+    text-align: center;
+}
+
+/* Style for paragraphs */
+p {
     color: green;
+    font-size: 18px;
+    margin: 10px 20px;
+    text-align: justify;
 }
